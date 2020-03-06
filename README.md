@@ -1,3 +1,3 @@
 # Overview
-
-This is the repo for the CPSC 2720 project.
+## Darkwing
+A group effort into the realm of text-based adventure games.  Written in C++ as part of CS2720 class project at University of Lethbridge.  Goal of project: to develop a text-based adventure game using good object-oriented design principle, learn version control, and to become familiar with a software team
